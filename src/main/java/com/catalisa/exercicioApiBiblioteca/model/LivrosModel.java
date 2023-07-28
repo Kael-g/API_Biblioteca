@@ -26,4 +26,7 @@ public class LivrosModel {
 
     @Column(nullable = false)
     private String dataLancamento;
+
+    @Column(nullable = false)
+    private String codigoLivro;
 }

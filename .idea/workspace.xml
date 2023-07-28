@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c500c44-a62e-4eee-a67a-fd67a733aa05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/catalisa/exercicioApiBiblioteca/model/LivrosModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/catalisa/exercicioApiBiblioteca/model/LivrosModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/catalisa/exercicioApiBiblioteca/model/LivrosModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/catalisa/exercicioApiBiblioteca/service/LivrosService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/catalisa/exercicioApiBiblioteca/service/LivrosService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +47,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/mikael.gualdi/Documents/Projetos Java/ExercicioApiBiblioteca",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mikael.gualdi/Documents/Projetos Java/ExercicioApiBiblioteca&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ExercicioApiBibliotecaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.catalisa.exercicioApiBiblioteca.ExercicioApiBibliotecaApplication" />

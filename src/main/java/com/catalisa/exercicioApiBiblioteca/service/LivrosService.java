@@ -36,6 +36,10 @@ public class LivrosService {
             livro.setDataLancamento(livroAtualizado.getDataLancamento());
         }
 
+        if (livroAtualizado.getCodigoLivro() != null && livroAtualizado.getCodigoLivro().length() > 0){
+            livro.setCodigoLivro(livroAtualizado.getCodigoLivro());
+        }
+
         return livrosRepository.save(livro);
     }
 
