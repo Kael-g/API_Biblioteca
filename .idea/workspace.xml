@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c500c44-a62e-4eee-a67a-fd67a733aa05" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/catalisa/exercicioApiBiblioteca/model/LivrosModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/catalisa/exercicioApiBiblioteca/model/LivrosModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/catalisa/exercicioApiBiblioteca/service/LivrosService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/catalisa/exercicioApiBiblioteca/service/LivrosService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/catalisa/exercicioApiBiblioteca/ExercicioApiBibliotecaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/catalisa/exercicioApiBiblioteca/ExercicioApiBibliotecaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/catalisa/exercicioApiBiblioteca/controller/LivrosController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/catalisa/exercicioApiBiblioteca/controller/LivrosController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/catalisa/exercicioApiBiblioteca/ExercicioApiBibliotecaApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/catalisa/exercicioApiBiblioteca/ExercicioApiBibliotecaApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/catalisa/exercicioApiBiblioteca/controller/LivrosController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/catalisa/exercicioApiBiblioteca/controller/LivrosController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +26,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -47,13 +54,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/mikael.gualdi/Documents/Projetos Java/ExercicioApiBiblioteca&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/nicoly.vitorio/Documents/Curso-Java/API_Biblioteca",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="ExercicioApiBibliotecaApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.catalisa.exercicioApiBiblioteca.ExercicioApiBibliotecaApplication" />
